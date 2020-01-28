@@ -1,0 +1,1 @@
+C:\Users\Chris\PyEnviroments\MachineLearning\Scripts\activate.bat
